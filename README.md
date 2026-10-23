@@ -17,6 +17,7 @@ We had a lab task almost every week. Most of them were in Python and I did them 
 | [Week 9](Week-09_Bar-Histogram-Pie-Charts/) | Bar Charts, Histograms, Pie Charts | Different types of bar charts, histograms and pie/donut charts |
 | [Week 10](Week-10_IoT-LDR-Light-Indicator/) | IoT – Light Intensity Indicator | Used an LDR with Arduino UNO to turn on red, yellow or green LED based on light level |
 | [Week 11](Week-11_IoT-Serial-LED-Control/) | IoT – LED Control from Serial Monitor | Typing 1 or 0 in the Serial Monitor turns the LED on or off. Includes Tinkercad and real board videos |
+| [Week 12](Week-12_IOT-Ultrasonic-Distance/) | IoT – Ultrasonic Distance Project | Made a distance measuring project in Tinkercad with an ultrasonic sensor, servo motor and LCD. Includes video |
 | [Week 14](Week-14_Machine-Learning/) | Machine Learning | KNN on the digits dataset, linear regression on NYC January temperatures, and linear regression on California housing data |
 | [Sessional](Sessional-Task/) | University Analytics System | Read student data from a file, made a Student class, analysed it with Pandas and saved the result to CSV |
 
@@ -43,7 +44,7 @@ For the Arduino code in Week 11, just open the `.ino` file in Arduino IDE, uploa
 
 ## Credits
 
-Week 11 was a group task that I did with my classmate Aisha Khalid.
+Week 11 and Week 12 were group tasks that I did with my classmate Aisha Khalid.
 
 Thanks to Prof. Muddassar Sindhu for teaching this course.
 
